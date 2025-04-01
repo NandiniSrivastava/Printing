@@ -130,9 +130,7 @@ Name: John Doe, Age: 20, Major: Computer Science, GPA: 3.8
 Name: Alice Smith, Age: 22, Major: Mathematics, GPA: 3.6
 Name: Bob Johnson, Age: 21, Major: Physics, GPA: 3.9
 ```
-
-## Screenshot
-![Output](output.png)
+![image](https://github.com/user-attachments/assets/a6bca65a-1f5d-495a-b779-8dd1b6d623dc)
 
 ## Conclusion
 This project showcases how to use YAML for structured data storage and Python for data processing and filtering. It can be extended to handle more complex student record management tasks.
