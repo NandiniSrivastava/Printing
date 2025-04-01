@@ -1,0 +1,13 @@
+students:
+  - name: John Doe
+    age: 20
+    major: Computer Science
+    gpa: 3.8
+  - name: Alice Smith
+    age: 22
+    major: Mathematics
+    gpa: 3.6
+  - name: Bob Johnson
+    age: 21
+    major: Physics
+    gpa: 3.9
